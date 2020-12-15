@@ -1,6 +1,6 @@
 # Deep_Generative_Models
 
-This is the default project for [CS236: Deep Generative Models](https://deepgenerativemodels.github.io/). You'll be implementing text-conditioned image generation.
+This is the default project for [CS236: Deep Generative Models]. You'll be implementing text-conditioned image generation.
 
 ## Getting Started
 
